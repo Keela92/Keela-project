@@ -1,0 +1,72 @@
+form {
+  position: relative;
+  display: block;
+  text-align: center;
+  right: -180px;
+  margin: 20px bottom;
+}
+
+ul {
+  margin: 0 0 10px;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.current-location-button {
+  position: relative;
+  display: block;
+  text-align: center;
+  left: -200px;
+  padding: 2px 5px 2px 5px;
+  border-radius: 2px;
+  border-width: thin;
+}
+.weather-summary {
+  font-size: small;
+}
+.today-weather {
+  position: relative;
+  display: inline;
+  right: -300px;
+}
+
+.temp {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.today-sun {
+  color: #ffc93c;
+  font-size: 110px;
+}
+
+.today-summary {
+  font-size: 12px;
+  right: -400px;
+}
+
+.week-forecast {
+  margin: 30px;
+}
+.sunny-day {
+  color: #ffc93c;
+}
+
+.rainy-day {
+  color: #64c4ed;
+}
+
+.cloudy-day {
+  color: #b7b7b7;
+}
+
+.heavy-rain {
+  color: #2470a0;
+}
+
+.part-sun {
+  color: #f8f398;
+}
