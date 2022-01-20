@@ -17,7 +17,7 @@ li {
 
 small {
   text-align: left;
-  display: inline;
+  display: block;
   margin-left: auto;
 }
 
