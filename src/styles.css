@@ -14,6 +14,12 @@ ul {
 li {
   list-style: none;
 }
+
+small {
+  text-align: left;
+  display: inline;
+}
+
 .container {
   display: block;
   width: 100%;
