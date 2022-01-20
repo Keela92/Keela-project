@@ -18,6 +18,7 @@ li {
 small {
   text-align: left;
   display: inline;
+  margin-left: auto;
 }
 
 .container {
